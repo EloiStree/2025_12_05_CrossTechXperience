@@ -13,7 +13,7 @@ In a hackathon you can follow two paths:
 
 
 I am a developer, so I will always prefer finishing with a working proof of concept.
-But if you have the will to continue the project, you need to think about its viability —
+But if you have the will to continue the project, you need to think about its viability -
 and so work on your slides, not for the hackathon jury but for the sake of your project ;)
 
 Find here some reminders. They are basics that any project should provide beyond a fun POC.
