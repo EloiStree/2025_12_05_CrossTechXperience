@@ -45,9 +45,6 @@ But for training, keep in mind the viability and feasibility, then prove it with
 * [ ] If the person has 5 minutes around a coffee: _(Would you be ready ?)_ 
   * [ ] Do you have 4 slides to illustrate your project ? _(Must be on your phone)_
   * [ ] Do you have a short 1-minute video to help understand the project? _(Must be on your phone or/and Youtube)_
-  
----
-
 * [ ] If the person loves your idea and wants you to explain it to the team in two days: *(Are documents ready for that?)* [📖 ->](https://github.com/EloiStree/2022_04_20_PitchGuideHackathon/blob/main/PocketCoachBeAbleToPitch.pdf)
   * [ ] Do you have a 7-minute slide deck to present the viability of your minimal viable version?
   * [ ] Check the “Ready to be Invested” items. [✅🪙->](https://docs.google.com/spreadsheets/d/1Gs_6G_CeJOPihLF09ywC1yAFu7nMh4r602sboStd5zs/edit#gid=1911286289)
