@@ -1,12 +1,16 @@
 
 # Cross Tech Xperience
 
-Public note as coach in the [https://crosstechxperience.eu/hackathon-2-2025/](https://crosstechxperience.eu/hackathon-2-2025/)
+Hackathon Website:  
+[https://crosstechxperience.eu/hackathon-2-2025/](https://crosstechxperience.eu/hackathon-2-2025/)  
 
-In a hackathon you can follow two paths:
+In a hackathon you can follow two paths:  
+* Hack and run the slide  
+* Make a bullshit slide and hack a bit on the side  
 
-* Hack and run the slide
-* Make a bullshit slide and hack a bit on the side
+[<img width="594" height="276" alt="image" src="https://github.com/user-attachments/assets/3a7754c4-16ec-4905-8376-00d5018c34bb" />](https://www.youtube.com/watch?v=TQjHrRxEqu0)     
+
+
 
 I am a developer, so I will always prefer finishing with a working proof of concept.
 But if you have the will to continue the project, you need to think about its viability —
