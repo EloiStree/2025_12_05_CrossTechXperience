@@ -44,8 +44,8 @@ But for training, keep in mind the viability and feasibility, then prove it with
     * [ ] With a “Do you know how/who … to solve …”
 * [ ] If the person has 5 minutes around a coffee: _(Would you be ready ?)_ 
   * [ ] Do you have 4 slides to illustrate your project ? _(Must be on your phone)_
-  * [ ] Do you have a short 1-minute video to help understand the project? _(Must be on your phone or/and Youtube)_Here is your text with **corrected spelling and grammar**, while **keeping the exact structure**:
-
+  * [ ] Do you have a short 1-minute video to help understand the project? _(Must be on your phone or/and Youtube)_
+  
 ---
 
 * [ ] If the person loves your idea and wants you to explain it to the team in two days: *(Are documents ready for that?)* [📖 ->](https://github.com/EloiStree/2022_04_20_PitchGuideHackathon/blob/main/PocketCoachBeAbleToPitch.pdf)
