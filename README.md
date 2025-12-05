@@ -58,7 +58,7 @@ But for training, keep in mind the viability and feasibility, then prove it with
     * [ ] Target Segmentation: Are you sure you know who you are coding for?
     * [ ] Team Solidity: Are you sure you can spend 5 years working on it?
     * [ ] Business Model: Are you sure the code will pay the salary of 4 employees for 10 years?
-    * [ ] Profit and Loss on a beer coaster: Could you explain on a 10 cm piece of paper why your code will make money?
+    * [ ] Profit and Loss on a beer coaster: Could you explain the math on a 10 cm beer coaster why your code will make money?
     * [ ] Risk: Are you sure you won't code for nothing for 2 years?
     * [ ] Finance Request: How much cash/help would you need to make your code reach the users?
     * [ ] In Hackathon
